@@ -16,6 +16,8 @@ Restart Overseer to load the plugin.
 
 ### Debug
 
+![Debug](./debug/assets/screenshot.png)
+
 ## License
 
 MIT © Infinite Turtles, LLC
