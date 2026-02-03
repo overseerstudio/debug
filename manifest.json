@@ -1,0 +1,13 @@
+{
+  "id": "@overseer/debug",
+  "name": "Debug",
+  "author": "Overseer Studio <hello@overseer.studio>",
+  "homepage": "https://overseer.studio",
+  "version": "1.0.0",
+  "license": "MIT",
+  "extensions": [
+    {
+      "$ref": "./debug/manifest.json"
+    }
+  ]
+}

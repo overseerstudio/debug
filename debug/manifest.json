@@ -1,0 +1,28 @@
+{
+  "author": "Overseer Studio <hello@overseer.studio>",
+  "category": "Organization",
+  "config": {
+    "mode": {
+      "type": "select",
+      "required": true,
+      "label": "Mode",
+      "defaultValue": "send",
+      "options": [
+        {
+          "value": "subscribe",
+          "label": "Subscribe"
+        },
+        {
+          "value": "send",
+          "label": "Send"
+        }
+      ]
+    }
+  },
+  "description": "Debug",
+  "icon": { "$ref": "assets/icon.png" },
+  "id": "@overseer/debug",
+  "label": "Debug",
+  "source": { "$ref": "./dist/index.html" },
+  "version": "1.0.0"
+}

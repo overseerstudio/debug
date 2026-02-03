@@ -1,0 +1,9 @@
+/** @format */
+
+@import 'tailwindcss';
+
+html,
+body,
+#app {
+  @apply h-full;
+}
