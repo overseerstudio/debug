@@ -8,6 +8,12 @@ Copy the contents of this responsitory to a new folder in Overseer's data direct
 
 ```shell
 %APPDATA%\Roaming\Overseer Studio\Plugins\@overseer\debug
+
+# Install dependencies
+npm ci
+
+# Build the assets
+npm run build
 ```
 
 Restart Overseer to load the plugin.
