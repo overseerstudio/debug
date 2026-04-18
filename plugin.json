@@ -1,0 +1,14 @@
+{
+  "$schema": "https://overseer.studio/schemas/plugin.json",
+  "version": "0.1.0",
+  "packageUrl": "https://downloads.overseer.studio/plugins/@overseer/debug/0.1.0/plugin.tar.gz",
+  "hash": "sha256-8460820a07fc511e756fb0b855a1e741b4d02577b8908b61bbe7e725efc8bcfd",
+  "assets": [
+    "debug/assets/icon.png",
+    "debug/dist/debug.cc8e398b.css",
+    "debug/dist/debug.e364e5a0.js",
+    "debug/dist/index.html",
+    "debug/manifest.json",
+    "manifest.json"
+  ]
+}
